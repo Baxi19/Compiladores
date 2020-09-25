@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0936c389-2650-4f37-a58b-ca08067a0b76" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1heBK8wGzZN9UQH8wjYH4XI0D3g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/integrated-development-and-learning-environment (1)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Baxi\Desktop\Compiladores" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Compiladores" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0936c389-2650-4f37-a58b-ca08067a0b76" name="Default Changelist" comment="" />
+      <created>1600361610826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600361610826</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="92" key="#Project_Structure" timestamp="1600362796058">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="0" y="92" key="#Project_Structure/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1600362796058" />
+    <state x="1943" y="134" key="DBNavigator.ResourceMonitorDialog" timestamp="1600361637335">
+      <screen x="1600" y="0" width="1366" height="728" />
+    </state>
+    <state x="1943" y="134" key="DBNavigator.ResourceMonitorDialog/0.0.1600.860/1600.0.1366.728@1600.0.1366.728" timestamp="1600361637335" />
+    <state x="180" y="188" key="FileChooserDialogImpl" timestamp="1600750665389">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="180" y="188" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1600362705455" />
+    <state x="180" y="188" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1600750665389" />
+    <state width="1557" height="203" key="GridCell.Tab.0.bottom" timestamp="1600638934573">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="203" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1600637095391" />
+    <state width="1557" height="203" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1600638934573" />
+    <state width="1557" height="203" key="GridCell.Tab.0.center" timestamp="1600638934573">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="203" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1600637095390" />
+    <state width="1557" height="203" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1600638934573" />
+    <state width="1557" height="203" key="GridCell.Tab.0.left" timestamp="1600638934572">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="203" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1600637095390" />
+    <state width="1557" height="203" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1600638934572" />
+    <state width="1557" height="203" key="GridCell.Tab.0.right" timestamp="1600638934573">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="203" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1600637095391" />
+    <state width="1557" height="203" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1600638934573" />
+    <state x="0" y="76" key="SettingsEditor" timestamp="1600361767707">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="0" y="76" key="SettingsEditor/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1600361767707" />
+    <state x="83" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1600956497087">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="83" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860/1600.0.1366.728@0.0.1600.860" timestamp="1600380297071" />
+    <state x="83" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1600956497087" />
+    <state x="182" y="5" key="new project wizard" timestamp="1600751018344">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="5" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1600751018344" />
+  </component>
+  <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
+    <option name="sizePresets">
+      <list>
+        <SizePreset>
+          <option name="caption" value="Phone" />
+          <option name="height" value="568" />
+          <option name="width" value="320" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Tablet" />
+          <option name="height" value="1024" />
+          <option name="width" value="768" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Desktop" />
+          <option name="height" value="900" />
+          <option name="width" value="1440" />
+        </SizePreset>
+      </list>
+    </option>
+  </component>
+</project>

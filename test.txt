@@ -1,0 +1,9 @@
+// while
+
+/*comentary*/
+
+public class TestClass {
+    public static boolean profile = false;
+    protected string nameM = "Meylin";
+
+}
